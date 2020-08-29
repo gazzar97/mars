@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "mars"
+    }
+  },
+  "defaultProject": "mars",
+  "cli": {
+    "analytics": "a2530240-fcab-4f67-88f9-562978ff007a"
+  }
 }
